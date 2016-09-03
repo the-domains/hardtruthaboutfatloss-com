@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Chnek this out
+    url: 'http://betterhealthsolutions.org'
+    type: external
 favicon: null
 description: yes you read that right
 purpose: []
