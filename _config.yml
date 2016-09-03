@@ -1,19 +1,4 @@
-name: hardtruthaboutfatloss.com
-favicon: null
-layout_spectrum: 0.14921172964386642
 typography_spectrum: 0.5769511696416885
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.796986430650577
   saturation: 0.42995696887373924
   rhythmicContrast: 0.6419137807097286
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.14921172964386642
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: hardtruthaboutfatloss.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: yes you read that right
 purpose: []
